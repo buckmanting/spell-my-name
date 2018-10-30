@@ -9,10 +9,10 @@ if(match){
         console.log('nice one son, you got a match!');
     }
     else{
-        console.log('didn\'t match, try again!1');
+        console.log('didn\'t match, try again!');
     }
 }
 else{
-    console.log('didn\'t match, try again!2');
+    console.log('didn\'t match, try again!');
 }
 
